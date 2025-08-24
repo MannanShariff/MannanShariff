@@ -1,10 +1,12 @@
-# 💫 About Me  
-🔭 Currently working on **Full-Stack (MERN) Projects** and **AI-powered Web Apps**  
-🤝 Open to collaborate on **Open-Source, Frontend Development, and AI/ML Projects**  
-🧑‍💻 Seeking guidance in **Backend Optimization & Scalable System Design**  
-🌱 Exploring **Backend Development, Cloud Computing & Data Science**  
-💬 Ask me about **React, Frontend Development, AI/ML Basics & Project Building**  
-⚡ Fun fact: I’m like a **one-man startup team 🚀** — switching between frontend, backend & AI models with ease!  
+# About Me  
+
+Currently working on Full-Stack (MERN) applications and AI-powered web solutions.  
+Open to collaborating on Open-Source projects, Frontend Development, and AI/ML innovations.  
+Continuously improving my skills in Backend Optimization, System Design, and Scalable Architectures.  
+Currently exploring Cloud Computing, Backend Development, and Data Science.  
+I enjoy sharing knowledge on React, Frontend Engineering, AI/ML fundamentals, and project development.  
+Fun fact: I love turning complex problems into simple, practical solutions — whether in code or real life.  
+  
 
 ---
 
@@ -61,13 +63,9 @@
 
 ---
 
-## 🏆 GitHub Trophies  
-![](https://github-profile-trophy.vercel.app/?username=MannanShariff&theme=radical&no-frame=true&no-bg=true&margin-w=6)  
-
----
-
 ## ✍️ Random Dev Quote  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
 
 ---
 
