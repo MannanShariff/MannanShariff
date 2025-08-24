@@ -64,11 +64,9 @@ Fun fact: I love turning complex problems into simple, practical solutions — w
 ---
 
 ## ✍️ Favorite Dev Quotes  
-[![](https://img.shields.io/badge/Quote-First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.%20—%20John%20Johnson-blueviolet?style=for-the-badge)  
-![](https://img.shields.io/badge/Quote-The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it.%20—%20Alan%20Kay-orange?style=for-the-badge)  
-![](https://img.shields.io/badge/Quote-Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%E2%80%99s%20bad.%20—%20Cory%20House-brightgreen?style=for-the-badge) ](https://readme-typing-svg.demolab.com?lines=First,+solve+the+problem.+Then,+write+the+code.+—+John+Johnson;The+best+way+to+predict+the+future+is+to+invent+it.+—+Alan+Kay;Code+is+like+humor.+When+you+have+to+explain+it,+it’s+bad.+—+Cory+House&center=true&width=1000&pause=2000
-) 
-
+> "First, solve the problem. Then, write the code." — John Johnson  
+> "The best way to predict the future is to invent it." — Alan Kay  
+> "Code is like humor. When you have to explain it, it’s bad." — Cory House  
 
 ---
 
