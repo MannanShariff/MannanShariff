@@ -38,13 +38,6 @@ Full-stack developer building with **React, Node.js, Express, and MongoDB**, wit
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MannanShariff&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MannanShariff&layout=compact&hide_border=true)
-
-</div>
-
-<div align="center">
-
 *"First, solve the problem. Then, write the code." — John Johnson*
 
 </div>
